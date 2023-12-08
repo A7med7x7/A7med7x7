@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ahmed Alghali</h1>
-<h3 align="center">A passionate Machine Engineer from Sudan</h3>
+<h1 align="center">Salam 😃, I'm Ahmed Alghali</h1>
+<h3 align="center">A passionate Machine Engineer enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med7x7&label=Profile%20views&color=0e75b6&style=flat" alt="a7med7x7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a7med7x7" alt="a7med7x7" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a7med7alghali" target="blank"><img src="https://img.shields.io/twitter/follow/a7med7alghali?logo=twitter&style=for-the-badge" alt="a7med7alghali" /></a> </p>
 
@@ -11,9 +9,11 @@
 
 - 🌱 I’m currently learning **Deep Learning in Pytorch**
 
-- 📝 I regularly write articles on [medium.com](medium.com)
+- 👨‍💻 All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
 
-- 💬 Ask me about **Machine Learning, UI/UX Development**
+- 📝 I regularly write articles on [https://medium.com/@ahmedalghali](https://medium.com/@ahmedalghali)
+
+- 💬 Ask me about **DS/ML/UI/UX Development**
 
 - 📫 How to reach me **a7medalghali777@gmail.com**
 
