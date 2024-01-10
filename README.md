@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/a7med7alghali" target="blank"><img src="https://img.shields.io/twitter/follow/a7med7alghali?logo=twitter&style=for-the-badge" alt="a7med7alghali" /></a> </p>
 
-- 🔭 I’m currently working on Machine Learning Problems **Telescope Data**
+- 🔭 I’m currently working on Machine Learning Problems **Recoomendation systems**
 
-- 🌱 I’m currently learning **Deep Learning in Pytorch**
+- 🌱 I’m currently learning **Deep Learning in Tensorflow**
 
 - 👨‍💻 All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
 
