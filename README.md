@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **a7medalghali777@gmail.com**
 
-- ⚡ Fun fact **I'm not expert when it comes to math**
+- ⚡ Fun fact **I'm not expert when it comes to mental math**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
