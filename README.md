@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **DS/ML/UI/UX Development**
 
-- 📫 How to reach me **a7medalghali777@gmail.com**
+- 📫 How to reach me **Ahmed@offsechq.com**
 
 - ⚡ Fun fact **I'm not expert when it comes to mental math**
 
