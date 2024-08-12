@@ -5,7 +5,7 @@
 
 
 
-<h1> Hello There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+
 <p align='center'>
 </p>
 <h2> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -29,9 +29,9 @@
 
 <p align="left">
 <a href="https://twitter.com/a7med7alghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7med7alghali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-alghali-4997a5229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-alghali-4997a5229/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-alghali-4997a5229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-alghali-4997a5229/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/ahmedalghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmed alghali" height="30" width="40" /></a>
-<a href="https://fb.com/ahmedalghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedalghali" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ahmed.alghali.524/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmedalghali" height="30" width="40" /></a>
 <a href="https://instagram.com/a7med7.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a7med7.7" height="30" width="40" /></a>
 <a href="https://www.behance.net/ahmedalghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmedalghali" height="30" width="40" /></a>
 <a href="https://medium.com/@ahmedalghali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmedalghali" height="30" width="40" /></a>
