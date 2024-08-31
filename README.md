@@ -1,18 +1,16 @@
-<h1 align="center">Salam 😃, I'm Ahmed Alghali</h1>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med7x7&label=Profile%20views&color=0e75b6&style=flat" alt="a7med7x7" /> </p> -->
+
 <h3 align="center">Machine Learning and Applied Science</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a7med7x7&label=Profile%20views&color=0e75b6&style=flat" alt="a7med7x7" /> </p>
-
 
 
 
 <p align='center'>
 </p>
-<h2> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> About me  </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 - 🔭 I’m currently working on Machine Learning Problems Recoomendation systems
 
-- 🌱 I’m currently learning **Deep Learning in Tensorflow**
+- 🌱 I’m currently learning **Deep Learning in Pytorch**
   
 - 👨‍💻 All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
   
