@@ -8,7 +8,7 @@
 </p>
 <h2> About me  </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🔭 I’m currently working on Machine Learning Problems Recoomendation systems
+- 🔭 I’m currently buidling khwarizm.
 
 - 🌱 I’m currently learning **Deep Learning in Pytorch**
   
