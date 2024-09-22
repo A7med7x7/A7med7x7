@@ -8,18 +8,12 @@
 </p>
 <h2> About me  </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-- 🔭 I’m currently buidling khwarizm.
-
-- 🌱 I’m currently learning **Deep Learning in Pytorch**
-  
-- 👨‍💻 All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
-  
-- 📝 I regularly write articles on [https://medium.com/@ahmedalghali](https://medium.com/@ahmedalghali)
-  
-- 💬 Ask me about **DS/ML/UI/UX Development**
-  
-- 📫 How to reach me **Ahmed@offsechq.com**
-
+-  I’m currently buidling khwariz
+-  I’m currently learning **Deep Learning in Pytorch**
+-  All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
+-  I regularly write articles on [https://medium.com/@ahmedalghali](https://medium.com/@ahmedalghali)
+-  Ask me about **DS/ML/UI/UX Development**
+-  How to reach me **Ahmed@offsechq.com**
 - ⚡ Fun fact **I'm not expert when it comes to mental math**
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Contact Information ....***
