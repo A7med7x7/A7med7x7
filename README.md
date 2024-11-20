@@ -9,11 +9,11 @@
 <h2> About me  </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
--  I’m currently buidling khwariz
+- currently buidling khwarizm
 
 -  All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
   
--  reach me at **Ahmed@offsechq.com**
+-  reach me at **Ahmed@OffSecHQ.com**
   
 -  Fun Fact **I'm not expert when it comes to mental math**
 
