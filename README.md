@@ -6,7 +6,7 @@
 
 <p align='center'>
 </p>
-<h2> About me  </h2>
+<h2> Antifragile  </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - Currently buidling khwarizm
