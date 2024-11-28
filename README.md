@@ -10,9 +10,9 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - Currently buidling [Khwarizm](https://github.com/A7med7x7/khwarizm)
-- co-founding [mentormat.com](mentormat.com)
+- Co-founding [mentormat.com](mentormat.com)
 - All of my UI Projects are available at [behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
-- reach me at **Ahmed@OffSecHQ.com**
+- Reach me at **Ahmed@OffSecHQ.com**
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Contact Information ....***
 
