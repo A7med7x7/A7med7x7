@@ -6,10 +6,10 @@
 
 <p align='center'>
 </p>
-<h2> Antifragile  </h2>
+<h2> Antifragile, Stamina and Resilience </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- Currently buidling khwarizm
+- Currently buidling [Khwarizm](https://github.com/A7med7x7/khwarizm)
 - co-founding [mentormat.com](mentormat.com)
 - All of my UI Projects are available at [behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
 - reach me at **Ahmed@OffSecHQ.com**
