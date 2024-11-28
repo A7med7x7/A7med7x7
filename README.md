@@ -9,13 +9,10 @@
 <h2> About me  </h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- currently buidling khwarizm
-
--  All of my UI Projects are available at [https://www.behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
-  
--  reach me at **Ahmed@OffSecHQ.com**
-  
--  Fun Fact **I'm not expert when it comes to mental math**
+- Currently buidling khwarizm
+- co-founding [mentormat.com](mentormat.com)
+- All of my UI Projects are available at [behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
+- reach me at **Ahmed@OffSecHQ.com**
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Contact Information ....***
 
