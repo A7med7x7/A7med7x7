@@ -11,7 +11,6 @@
 
 - Currently buidling [Khwarizm](https://github.com/A7med7x7/khwarizm)
 - Co-founding [mentormat.com](https://mentormat.com)
-- All of my UI Projects are available at [behance.net/ahmedalghali](https://www.behance.net/ahmedalghali)
 - Reach me at **Ahmed@OffSecHQ.com**
 
 
