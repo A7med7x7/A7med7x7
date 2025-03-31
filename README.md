@@ -10,4 +10,4 @@
 
 - Currently building [Khwarizm](https://github.com/A7med7x7/khwarizm)
 - Co-founding [mentormat.com](https://mentormat.com)
-- Reach me at Ahmed@OffSecHQ.com
+> - Reach out to me at Ahmed@OffSecHQ.com
