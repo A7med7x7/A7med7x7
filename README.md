@@ -6,8 +6,5 @@
 <p align='center'>
 </p>
 <h2> Antifragile, Stamina and Resilience </h2>
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- Currently building [Khwarizm](https://github.com/A7med7x7/khwarizm)
-- Co-founding [mentormat.com](https://mentormat.com)
 - Reach out to me at Ahmed@OffSecHQ.com
