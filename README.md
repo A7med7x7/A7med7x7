@@ -7,4 +7,4 @@
 </p>
 <h2> Antifragile, Stamina and Resilience </h2>
 
-- Reach out to me at Ahmed@OffSecHQ.com
+- Ahmed@OffSecHQ.com
