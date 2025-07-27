@@ -5,6 +5,5 @@
 
 <p align='center'>
 </p>
-<h2> Antifragile, Stamina and Resilience </h2>
 
 - Ahmed@OffSecHQ.com
